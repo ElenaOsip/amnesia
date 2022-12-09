@@ -1,0 +1,15 @@
+/Users/Elena/Desktop/c#gitHub/string/bin/Debug/net6.0/string
+/Users/Elena/Desktop/c#gitHub/string/bin/Debug/net6.0/string.deps.json
+/Users/Elena/Desktop/c#gitHub/string/bin/Debug/net6.0/string.runtimeconfig.json
+/Users/Elena/Desktop/c#gitHub/string/bin/Debug/net6.0/string.dll
+/Users/Elena/Desktop/c#gitHub/string/bin/Debug/net6.0/string.pdb
+/Users/Elena/Desktop/c#gitHub/string/obj/Debug/net6.0/string.csproj.AssemblyReference.cache
+/Users/Elena/Desktop/c#gitHub/string/obj/Debug/net6.0/string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Elena/Desktop/c#gitHub/string/obj/Debug/net6.0/string.AssemblyInfoInputs.cache
+/Users/Elena/Desktop/c#gitHub/string/obj/Debug/net6.0/string.AssemblyInfo.cs
+/Users/Elena/Desktop/c#gitHub/string/obj/Debug/net6.0/string.csproj.CoreCompileInputs.cache
+/Users/Elena/Desktop/c#gitHub/string/obj/Debug/net6.0/string.dll
+/Users/Elena/Desktop/c#gitHub/string/obj/Debug/net6.0/refint/string.dll
+/Users/Elena/Desktop/c#gitHub/string/obj/Debug/net6.0/string.pdb
+/Users/Elena/Desktop/c#gitHub/string/obj/Debug/net6.0/string.genruntimeconfig.cache
+/Users/Elena/Desktop/c#gitHub/string/obj/Debug/net6.0/ref/string.dll
