@@ -26,7 +26,25 @@ int j = 0;
         j++;
         }
     }
+   Console.WriteLine("Массив со строками длиной меньше или = 3 выглядит так:"); 
 
+  
+//    else Console.WriteLine("в массивве нет строк меньше 3");
+
+      // Function to perform sorting
+    
+   
+//  Console.WriteLine(String.Join("\n", random_in)); 
+
+void printArraystring(String []str, int n)
+    {
+        for (int i=0; i<n; i++)
+            Console.Write(str[i]+" ");
+    }
+
+printArraystring (random_in, j);
+
+Console.WriteLine();
    
    
 
