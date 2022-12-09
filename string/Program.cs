@@ -12,5 +12,23 @@ for(int i = 0; i < random_in.Length; i++)
    random_in[i] = Console.ReadLine();
 }
 
+// String [] random_in = new String [] {"hello", "2", "world", ":-)"};
+//  Console.WriteLine(String.Join("\n", random_in)); 
+int n = random_in.Length;
+int j = 0;
+
+
+    for (int i = 0; i<n; i++)
+    {String temp = random_in[i];
+    
+    if (temp.Length<=3) 
+        {random_in[j]=temp; 
+        j++;
+        }
+    }
+
+   
+   
+
 
 
